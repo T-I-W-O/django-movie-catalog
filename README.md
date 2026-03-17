@@ -23,8 +23,7 @@ This is a static movie catalog website built using Django and HTML. It demonstra
 ![Search Result](images/search-result.png)
 ![Movie Not Found](images/movie-not-found.png)
 
-### 📱 Mobile View 
-![Mobile View](images/mobile-view.png)
+
 
 ## How to Run Locally
 1. Clone the repository:
