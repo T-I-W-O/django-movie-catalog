@@ -9,12 +9,22 @@ This is a static movie catalog website built using Django and HTML. It demonstra
 - Search for a movie by title (sample movie available for demo)  
 - Navigate between pages  
 - Displays a message when a movie is not available  
-- Clean, reusable Django templates
+- Clean, reusable Django templates  
 
 ## Tech Stack
 - Django  
 - HTML / CSS  
 
+
+## Screenshots
+
+### 💻 Desktop View
+![Homepage](images/homepage.png)
+![Search Result](images/search-result.png)
+![Movie Not Found](images/movie-not-found.png)
+
+### 📱 Mobile View 
+![Mobile View](images/mobile-view.png)
 
 ## How to Run Locally
 1. Clone the repository:
