@@ -14,7 +14,7 @@ This is a static movie catalog website built using Django and HTML. It demonstra
 ## Tech Stack
 - Django  
 - HTML / CSS  
-- Bootstrap (optional if used)
+
 
 ## How to Run Locally
 1. Clone the repository:
