@@ -38,7 +38,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'fzmovies.middleware.Handle404Middleware', 
+    'fzmovies.middleware.Handle404Middleware',
+    'fzmovies.middleware.AdminIPRestrictionMiddleware',
 ]
 
 ROOT_URLCONF = 'website.urls'
