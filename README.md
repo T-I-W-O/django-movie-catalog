@@ -5,6 +5,9 @@ This is a static movie catalog website built using Django and HTML. It demonstra
 
 > **Note:** This is a demonstration site. Currently, the search is configured with a sample movie (“Wonderman”) to showcase Django template rendering and search functionality.
 
+## 🚀 Live Demo
+[Click here to view](https://your-site-url.com)
+
 ## Features
 - Search for a movie by title (sample movie available for demo)  
 - Navigate between pages  
