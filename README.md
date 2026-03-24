@@ -1,7 +1,7 @@
 # Django Movie Catalog
 
 ## Overview
-This is a static movie catalog website built using Django and HTML. It demonstrates front-end and back-end integration, including search functionality, page navigation, and template rendering.
+This is a Django-based movie catalog web application. It demonstrates backend routing, template rendering, page navigation, and basic search functionality.
 
 > **Note:** This is a demonstration site. Currently, the search is configured with a sample movie (“Wonderman”) to showcase Django template rendering and search functionality.
 
